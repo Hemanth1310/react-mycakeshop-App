@@ -3,10 +3,10 @@ import {NavLink} from 'react-router-dom'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import smilelogo from '../assests/smilelogo.png'
 import PosterCake from '../assests/PosterCake.png'
-import muffin from '../assests/muffin.jpeg'
-import cakes from '../assests/cakes.jpeg'
-import coocies from '../assests/coocies.jpeg'
-import doughnut from '../assests/doughnut.jpeg'
+import muffin from '../assests/muffin.jpg'
+import cakes from '../assests/cakes.jpg'
+import coocies from '../assests/coocies.jpg'
+import doughnut from '../assests/doughnuts.jpg'
 import classes from './Main.module.css'
 import Card from "react-bootstrap/Card";
 import Row from "react-bootstrap/Row";
